@@ -13,8 +13,11 @@ PiaxI Mental Health Companion is an open-source project dedicated to supporting 
 ## Tech Stack
 
 -> Gemini
+
 -> Node.js  
+
 -> React  
+
 -> JavaScript/TypeScript  
 
 ## How It Works
